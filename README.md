@@ -1,6 +1,6 @@
-# 🚀 **Retroalimentación JavaScript**
+# 🚀 **Retroalimentación JavaScript ECMAScript 6**
 
-este repositorio es para documentar lo aprendido en JavaScript.  
+este repositorio es para documentar lo que he aprendido en JavaScript ECMAScript 6.  
 
 ## 📌 Tecnologías Utilizadas  
 
