@@ -1,4 +1,7 @@
-// Arreglos
+// Código ejemplo de arreglos en JavaScript
+// Los arreglos son estructuras de datos que nos permiten almacenar varios valores en una sola variable.
+
+
 
 // ✅ Creando un arreglo forma tradicional
 

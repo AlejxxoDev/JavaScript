@@ -1,4 +1,8 @@
-// Template string
+// Código ejemplo de template string en JavaScript
+// los template strings son una característica de JavaScript que nos permite interpolar variables y expresiones dentro de un string.
+
+
+// ✅ Creando variables
 
 let name = "Alejandro";
 let lastName = "Vargas";

@@ -33,11 +33,22 @@
 
 // ✅ Creando una función de flecha (simplificada) con un objeto
 
-const getUserActive = (nombre) => ({
-  uid: "ABC123",
-  username: nombre,
-});
+// const getUserActive = (nombre) => ({
+//   uid: "ABC123",
+//   username: nombre,
+// });
 
-const userActive = getUserActive("Alejandro");
+// const userActive = getUserActive("Alejandro");
 
-console.log(userActive);
+// console.log(userActive);
+
+
+
+const persona = {
+  nombre:'alejandro',
+  getNombre(){
+    console.log(this.nombre);
+  }
+}
+
+persona.getNombre();
