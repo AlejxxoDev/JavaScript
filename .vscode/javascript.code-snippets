@@ -1,0 +1,19 @@
+{
+  "Console log": {
+    "prefix": "clg",
+    "body": ["console.log($1);"],
+    "description": "Atajo para console.log"
+  },
+
+  "Console table": {
+    "prefix": "clm",
+    "body": ["console.map($1);"],
+    "description": "Atajo para console.map"
+  },
+
+ "setTimeout": {
+  "prefix": "sto",
+  "body": ["setTimeout(() => {", "  $0", "}, $1);"],
+  "description": "Atajo para setTimeout"
+}
+}

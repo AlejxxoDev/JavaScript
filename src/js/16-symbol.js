@@ -20,6 +20,8 @@ console.log(persona[segundoNombre]); // Vargas
 
 
 
+// 🔹 los simbolos son unicos
+
 let simbolo1 = Symbol("simbolo");
 let simbolo2 = Symbol("simbolo");
 
